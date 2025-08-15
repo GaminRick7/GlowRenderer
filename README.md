@@ -1,6 +1,6 @@
 # GlowRenderer
 
-A modern OpenGL-based deferred rendering engine with PBR materials, frustum culling, and real-time lighting.
+A high-performance deferred rendering engine implementing physically-based rendering (PBR), frustum culling, and instanced rendering. Supports hundreds of dynamic light sources with real-time performance.
 
 ![Deferred Renderer Demo](./assets/glowrenderer.png)
 
