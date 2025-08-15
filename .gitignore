@@ -1,0 +1,142 @@
+# Build directories
+cmake-build-*/
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# Compiled Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+renderer
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Shader compilation artifacts (if any)
+*.spv
+*.spirv
+
+# Texture compression artifacts
+*.ktx
+*.ktx2
+*.dds
+
+# Model conversion artifacts
+*.fbx
+*.dae
+*.blend1
+*.blend2
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# Backup files
+*~
+*.orig
+*.rej
+
+
+CLEANUP_SUMMARY.md
+
+
+TECHNICAL_WRITEUP.md
+
+
+
+
+
+
+
