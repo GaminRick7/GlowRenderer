@@ -2,6 +2,9 @@
 
 A modern OpenGL-based deferred rendering engine with PBR materials, frustum culling, and real-time lighting.
 
+![Deferred Renderer Demo](./assets/glowrenderer.png)
+
+
 ## Architecture
 
 The renderer employs a **deferred rendering pipeline** that separates geometry and lighting into distinct passes. The first pass renders scene geometry to a G-buffer containing position, normal, albedo, metallic, roughness, and ambient occlusion data. The second pass performs lighting calculations using this G-buffer data, enabling efficient rendering with multiple light sources.
