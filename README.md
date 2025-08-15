@@ -1,4 +1,4 @@
-# Renderer
+# GlowRenderer
 
 A modern OpenGL-based deferred rendering engine with PBR materials, frustum culling, and real-time lighting.
 
